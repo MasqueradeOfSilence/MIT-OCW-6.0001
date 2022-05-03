@@ -4,3 +4,4 @@
 ## Quizlet Links: 
 
 - [Session #1](https://quizlet.com/693382491/mit-ocw-60001-session-1-flash-cards/)
+- [Session #2](https://quizlet.com/696184277/mit-ocw-60001-session-2-flash-cards/)
