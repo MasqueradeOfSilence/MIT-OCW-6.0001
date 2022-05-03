@@ -27,6 +27,17 @@ def get_largest_odd_number(x, y, z):
         print("No odd numbers")
 
 
+def print_xs():
+    num_xs = int(input("How many times should I print the letter X? "))
+    to_print = ""
+    # concatenate X to toPrint numXs times
+    num_iterations = 0
+    while num_iterations < num_xs:
+        to_print += "X"
+        num_iterations += 1
+    print(to_print)
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
@@ -38,5 +49,6 @@ if __name__ == '__main__':
     get_largest_odd_number(1, 5, 11)
     # Expected: -1
     get_largest_odd_number(-5, -3, -1)
+    print_xs()
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
